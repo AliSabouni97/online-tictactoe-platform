@@ -26,8 +26,10 @@ An online turn-based game platform MVP built to demonstrate clean project struct
 
 ## Project Structure
 
+```
 online-tictactoe-platform/
-├── client/ # Frontend application
-├── server/ # Backend server
-├── shared/ # Shared types and constants
+├── client/        # Frontend application
+├── server/        # Backend server
+├── shared/        # Shared types and constants
 └── README.md
+```
